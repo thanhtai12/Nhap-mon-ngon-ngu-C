@@ -9,8 +9,8 @@ int main() {
   //tinh chu vi dien tich hinh tron//
   CV = 2 * R * PI;
   DT = R * R * PI;
-  printf("R hinh tron la: %0.1f\n",R);
-  printf("CV hinh tron la: %0.1f\n",CV);
-  printf("DT hinh tron la: %0.1f",DT);
+  printf("R: %0.1f\n",R);
+  printf("CV: %0.1f\n",CV);
+  printf("DT: %0.1f",DT);
   return 0;
 }
