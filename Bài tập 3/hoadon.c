@@ -13,7 +13,7 @@ int main(void){
   //lam theo cong thuc so luong * don gia = thanh tien//
   thanhtien = a * b;
   //ta co ket qua dat duoc//
-  printf("a * b = %d",thanhtien);
+  printf("thanh tien = %d",thanhtien);
   return 0;
 
 
