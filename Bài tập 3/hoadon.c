@@ -12,14 +12,11 @@ int main(void){
   int khoiluong, giatri, thanhtien;
   //lam theo cong thuc so luong * don gia = thanh tien//
   thanhtien = a * b;
-  if (a>=5){thanhtien=(a*b)*0.5;
-  a=5;
+  if (a>=5&b>=500){thanhtien=(a*b)*0.5;
   }
-  if (b>=500){
-  b=500;
   //ta co ket qua dat duoc//
   printf("thanh tien = %d",thanhtien);
-}
+
   
   return 0;
 
