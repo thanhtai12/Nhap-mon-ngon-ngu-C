@@ -5,9 +5,10 @@ int main(void){
   //cho tong bang 0//
   tong =0;
   //khai bao bien de dem//
-  int i;
+  int i, n;
   //cong thuc dem//
-  for(i=1;i<=10;i ++ )
+  scnaf("%d",&n);
+  for(i=1;i<=n;i ++ )
   // phep tinh tong//
   tong = tong + i;
   //hien thi tong tu 1 den 10//
