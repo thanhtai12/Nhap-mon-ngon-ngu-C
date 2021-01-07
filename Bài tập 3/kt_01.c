@@ -25,7 +25,7 @@ int main(void){
   printf("3 x 7 =3\n");
   printf("3 x 8 =3\n");
   printf("3 x 9 =3\n");
-  printf("3 x 10 =3\n");
+  printf("3 x 10 =30\n");
   //bang cuu chuong x4//
   printf("\tbang nhan 4\n");
   printf("4 x 1 = 4\n");
