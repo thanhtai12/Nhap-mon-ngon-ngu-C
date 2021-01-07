@@ -2,6 +2,7 @@
 int main(void){
   int a,b;
   printf("\nnbang cuu chuong\n");
+  //bang nhan 2//
   printf("\tbang nhan 2\n");
   printf("2 x 1 = 2\n");
   printf("2 x 2 = 4\n");
@@ -13,6 +14,7 @@ int main(void){
   printf("2 x 8 = 16\n");
   printf("2 x 9 = 18\n");
   printf("2 x 10 = 20\n");
+  //bang cuu chuong x 3//
   printf("\tbang nhan 3\n");
   printf("3 x 1 =3\n");
   printf("3 x 2 =3\n");
@@ -24,6 +26,7 @@ int main(void){
   printf("3 x 8 =3\n");
   printf("3 x 9 =3\n");
   printf("3 x 10 =3\n");
+  //bang cuu chuong x4//
   printf("\tbang nhan 4\n");
   printf("4 x 1 = 4\n");
   printf("4 x 2 = 8\n");
@@ -35,5 +38,4 @@ int main(void){
   printf("4 x 8 = 32\n");
   printf("4 x 9 = 36\n");
   printf("4 x 10 = 40\n");
-  return 0;
 }
