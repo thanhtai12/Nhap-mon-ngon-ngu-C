@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(void){
   int a,b;
-  printf("\nnbang cuu chuonh\n");
+  printf("\nnbang cuu chuong\n");
   printf("\tbang nhan 2\n");
   printf("2 x 1 = 2\n");
   printf("2 x 2 = 4\n");
