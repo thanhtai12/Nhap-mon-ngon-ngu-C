@@ -4,7 +4,7 @@ int main(void) {
   //khai bao mang
   int mark[4] = {3,5,7,2};
   //hien thi mang ra man hinh
-  printf("3,5,7,2\n");
+  printf("%d\n",mark[i]);
   //khai bao bien
   int a;
   //tinh tong cua mang
