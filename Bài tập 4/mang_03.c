@@ -19,14 +19,14 @@ int main(){
        tongchan=tongchan+a[i];
  }
  }
-       printf("tongchan=%d",tongchan);
+       printf("\ntongchan=%d",tongchan);
  int tongle;
  for(int i=0;i<n;i++){
    if(a[i]%2!=0){
      tongle=tongle+a[i];
    }
  }
- printf("tongle=%d",tongle);
+ printf("\ntongle=%d",tongle);
  int dem_chan=0;
  a[0]=1;
  a[1]=2;
