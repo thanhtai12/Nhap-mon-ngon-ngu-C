@@ -10,13 +10,13 @@ int main(){
   if(kiem_tra_am_duong(n) > 0)
       printf("n la so nguyen duong ");
   else if (kiem_tra_am_duong(n) < 0)
-    printf("n la so nguyen âm");
+    printf("n la so nguyen Ã¢m");
   else 
     printf("n = 0");
   return 0;
 }
 int kiem_tra_am_duong(int n){
-  return 1;
+  return n;
 }
 
 // khoi dinh nghia ham
