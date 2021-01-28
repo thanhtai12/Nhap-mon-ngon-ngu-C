@@ -1,17 +1,23 @@
 
 #include<stdio.h>
 int main(void){
-  //h=4:4hang
-  //hang 1: 1 ngoi sao:0khoang trang
-  //hang 2:3ngoi ao2khoang trang?
-  //hang3:5ngoi sao 4khoang trang?
-  //hang4:7ngoi sao 6 khoang trang?
-  //h=3:3hang
-  //hang 1: 1 ngoi sao:0khoang trang
-  //hang 2:3ngoi ao2khoang trang?
-  //hang3:5ngoi sao 4khoang trang?
- 
- 
+  
+
+  //h = 4: 4 hang
+  //hang 1:1 sao 3 khoang trang
+  //hang 2:3 sao 2 khoang trang
+  //hang 3:5 sao 1 khoang trang
+  //hang 4:7 sao 0 khoang trang
+  //h = 3: 3 hang
+  //hang 1:1 sao 2 khoang trang
+  //hang 2:3 sao 1 khoang trang
+  //hang 3:5 sao 0 khoang trang
+  //h = 2: 2 hang
+  //hang 1:1 sao 1 khoang trang
+  //hang 2:3 sao 0 khoang trang
+  //h = 1: 1 hang
+  //hang 1:1 sao 0 khoang trang
+
   
   
   return 0;
