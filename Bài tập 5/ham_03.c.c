@@ -1,10 +1,10 @@
 //****************************************CODE**********
 //Khoi khai bao
 #include<stdio.h>
-void Nhap_pt_mang(int a[]);
-void Hien_thi_pt_mang(int a[]);
-void Hien_thi_tong_chan(int a[]);
-void Dem_chan_le_0(int a[]);
+void Nhap_pt_mang(int v[]);
+void Hien_thi_pt_mang(int v[]);
+void Hien_thi_tong_chan(int v[]);
+void Dem_chan_le_0(int v[]);
  //khoi ham main
 int main(){
   int n;
@@ -17,17 +17,17 @@ int main(){
   Dem_chan_le_0(a);
   return 0;
 }
-void Nhap_pt_mang(int a[]){
- 
-}
-void Hien_thi_pt_mang(int a[]){
+void Nhap_pt_mang(int v[]){
 
 }
-void Hien_thi_tong_chan(int a[]){
+void Hien_thi_pt_mang(int v[]){
 
 }
-void Dem_chan_le_0(int a[]){
- 
+void Hien_thi_tong_chan(int v[]){
+  
+}
+void Dem_chan_le_0(int v[]){
+
 }
 
 // khoi dinh nghia ham
