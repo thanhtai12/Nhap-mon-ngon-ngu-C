@@ -1,7 +1,7 @@
 //****************************************CODE**********
 //Khoi khai bao
 #include<stdio.h>
-int kiem_tra_am_duong(int n);
+int kiem_tra_am_duong(int x);
  //khoi ham main
 int main(){
   int n;
@@ -15,8 +15,16 @@ int main(){
     printf("n = 0");
   return 0;
 }
-int kiem_tra_am_duong(int n){
-  return n;
+int kiem_tra_am_duong(int x){
+  if (x > 0){
+    return 1;
+  }
+  else if (x < 0){
+    return -1;
+  }
+  else{
+    return 0;
+  }
 }
 
 // khoi dinh nghia ham
