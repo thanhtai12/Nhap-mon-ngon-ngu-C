@@ -2,10 +2,11 @@
 #include <stdio.h>
 
 int main(void) {
-  int n, tong = 0;
+  int n;
   printf("Nhap n = ");
   scanf("%d",&n);
-  for(int i = 1; i <= n; i++){
+  int tong = 0;
+  for(int i ; i <= n; i++){
     if(n % i == 0){
       tong = tong + i;
         printf("%d la so hoan hao\n",n);
